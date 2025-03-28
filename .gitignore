@@ -404,3 +404,4 @@ FodyWeavers.xsd
 
 # MacOs
 *.DS_Store
+apbd_cw2/*.idea

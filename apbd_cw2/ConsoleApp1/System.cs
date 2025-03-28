@@ -377,7 +377,7 @@ public class System
         if (_kontenery.Count > 0 && _statki.Count > 0) Console.WriteLine("S. Dodaj kontener do kontenerowca ");
         if (_statki.Count > 0)Console.WriteLine("C. Pokaz kontenery kontenerowca ");
         if (_statki.Count > 0)Console.WriteLine("W. Opróżnij kontenerowiec ");
-        if (_kontenery.Count > 0 )Console.WriteLine("O. Wypisz informacje o danym kontenerze ");
+        if (_kontenery.Count > 0 )Console.WriteLine("P. Wypisz informacje o danym kontenerze ");
 
     }
     
